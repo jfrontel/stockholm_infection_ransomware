@@ -1,0 +1,61 @@
+¿Qué es el ransomware WannaCry?
+
+Explicación del ransomware WannaCry
+
+WannaCry es un ejemplo de ransomware de cifrado, un tipo de software malicioso (malware) que los cibercriminales utilizan a fin de extorsionar a un usuario para que pague.
+El ransomware ataca cifrando archivos valiosos para que no puedas acceder a ellos, o bien bloqueando tu acceso al ordenador para que no puedas utilizarlo.
+El ransomware que utiliza cifrado se llama ransomware de cifrado. El tipo que bloquea tu acceso al ordenador se llama ransomware de bloqueo.
+Al igual que otros tipos de ransomware de cifrado, WannaCry secuestra tus datos con la promesa de devolverlos si pagas un rescate.
+WannaCry tiene como objetivo los ordenadores que utilizan Microsoft Windows como sistema operativo. Cifra los datos y exige el pago de un rescate en la criptomoneda bitcoin por su devolución.
+
+
+¿Cuál fue el ataque ransomware WannaCry?
+
+El ataque de ransomware WannaCry fue una epidemia global que tuvo lugar en mayo de 2017.
+Este ataque ransomware se propagó a través de ordenadores con Microsoft Windows. Los archivos del usuario se mantuvieron retenidos y se solicitó un rescate en bitcoins para su devolución.
+Si no fuera por el uso continuado de sistemas informáticos obsoletos y por la formación deficiente en torno a la necesidad de actualizar el software, el daño causado por este ataque podría haberse evitado.
+
+
+¿Cómo funciona un ataque de WannaCry?
+
+Los cibercriminales responsables del ataque aprovecharon una debilidad en el sistema operativo Microsoft Windows mediante un ataque que supuestamente había desarrollado la Agencia de Seguridad Nacional de Estados Unidos.
+Conocido como EternalBlue, este ataque fue publicado por un grupo de hackers llamado The Shadow Brokers antes del ataque de WannaCry.
+Microsoft publicó un parche de seguridad que protegía los sistemas de los usuarios contra este exploit o vulnerabilidad casi dos meses antes de que comenzara el ataque de ransomware WannaCry. Por desgracia, muchas personas y organizaciones no actualizan periódicamente sus sistemas operativos, por lo que quedaron expuestas al ataque.
+Aquellos que no habían ejecutado una actualización de Microsoft Windows antes del ataque no pudieron beneficiarse del parche, y la vulnerabilidad explotada por EternalBlue los dejó expuestos al ataque.
+Cuando ocurrió por primera vez, la gente asumió que el ataque de ransomware WannaCry se había propagado inicialmente a través de una campaña de phishing (una campaña de phishing es aquella en la que correos electrónicos de spam con enlaces o archivos adjuntos infectados atraen a los usuarios para que descarguen malware). Sin embargo, EternalBlue fue el exploit o vulnerabilidad que permitió a WannaCry propagarse, y DoublePulsar era la "puerta trasera" (backdoor) instalada en los ordenadores afectados (que se utilizó para ejecutar WannaCry).
+
+
+¿Qué ocurrió si no se pagó el rescate de WannaCry?
+
+Los atacantes exigieron un rescate en bitcoins por valor de 300 dólares y, posteriormente, aumentaron el rescate en bitcoins a un valor de 600 dólares. A las víctimas del ataque de ransomware WannaCry se les comunicó que, si no pagaban el rescate en un plazo de tres días, sus archivos se eliminarían de forma permanente.
+El mejor consejo que se puede dar en lo que se refiere a los pagos de los rescates es no sucumbir. Evita siempre pagar un rescate, ya que no hay garantía de que te vayan a devolver tus archivos; asimismo, cada pago valida el modelo de negocio de los cibercriminales, lo que aumenta las probabilidades de que se produzcan futuros ataques.
+Este consejo resultó ser sensato durante el ataque de WannaCry porque, según se ha descrito, la codificación utilizada en el ataque era defectuosa. Cuando las víctimas pagaban su rescate, los atacantes no tenían forma de asociar el pago con el ordenador de una víctima específica.
+Existen dudas sobre si alguien recuperó sus archivos. Algunos investigadores afirmaron que nadie recuperó sus datos, pero una empresa llamada F-Secure aseguró que algunas personas sí lo hicieron. Este es un duro recordatorio de por qué nunca es buena idea pagar el rescate si sufres un ataque de ransomware.
+
+
+¿Qué impacto tuvo el ataque de WannaCry?
+
+El ataque de ransomware WannaCry afectó aproximadamente a 230.000 ordenadores en todo el mundo.
+Una de las primeras empresas afectadas fue Telefónica, la empresa de telefonía española. Para el 12 de mayo, miles de hospitales y clínicas del Servicio Nacional de Salud (NHS) del Reino Unido estaban comprometidos.
+Un tercio de las fundaciones hospitalarias del NHS se vieron afectadas por el ataque. Se informó a las ambulancias de que cambiaran de ruta, lo que dejó a muchísimas personas necesitadas de atención urgente en la estacada. Se estimó que el ataque costó al NHS la escalofriante cantidad de 92 millones de libras, ya que 19.000 citas se cancelaron como resultado del ataque.
+El ransomware se extendió más allá de Europa, y se paralizaron los sistemas informáticos de 150 países. El ataque de ransomware WannaCry tuvo un impacto financiero significativo en todo el mundo. Se estima que este cibercrimen provocó pérdidas por valor de 4.000 millones de dólares en todo el mundo.
+
+
+Protección contra ransomware
+
+Ahora que ya sabes cómo se produjo el ataque ransomware WannaCry y el impacto que tuvo, veamos cómo puedes protegerte del ransomware.
+
+    -- Actualiza el software y el sistema operativo periódicamente
+    -- Los usuarios de los ordenadores se convirtieron en víctimas del ataque de WannaCry porque no habían actualizado su sistema operativo Microsoft Windows.
+    -- Si hubieran actualizado sus sistemas operativos periódicamente, se habrían beneficiado del parche de seguridad que Microsoft publicó antes del ataque.
+    -- Este parche eliminaba la vulnerabilidad que explotó EternalBlue para infectar ordenadores con el ransomware WannaCry.
+    -- Asegúrate de mantener el software y el sistema operativo actualizados. Este es un paso esencial para la protección contra el ransomware.  
+    -- No hagas clic en enlaces sospechosos.
+    -- Si abres un correo electrónico desconocido o visitas un sitio web en el que no confías, no hagas clic en ningún enlace. Al hacer clic en enlaces no verificados, se puede iniciar una descarga de ransomware. 
+    -- Nunca abras archivos adjuntos de correos electrónicos que no sean de confianza
+    -- Evita abrir archivos adjuntos de correos electrónicos a menos que estés seguro de que son fiables. ¿Conoces el remitente y confías en él? ¿Está claro cuál es el archivo adjunto? ¿Esperabas recibir el archivo adjunto?
+    -- Si el archivo adjunto te solicita que habilites las macros para verlo, ten cuidado. No habilites las macros ni abras el archivo adjunto, ya que esta es una forma habitual de propagar el ransomware y otros tipos de malware.   
+    -- No descargues archivos de sitios web que no sean de confianza.
+    -- La descarga de archivos de sitios desconocidos aumenta el riesgo de descargar ransomware. Descarga archivos solo de sitios web en los que confías.
+    -- Evita el uso de dispositivos USB desconocidos.
+    -- No insertes dispositivos USB ni otros dispositivos de almacenamiento extraíbles en el ordenador si no sabes de dónde proceden. Podrían estar infectados con ransomware.
